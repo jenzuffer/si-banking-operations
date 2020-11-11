@@ -1,0 +1,361 @@
+1605116337203	geckodriver	INFO	Listening on 127.0.0.1:58943
+1605116338218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiled1vTD9"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605116347763	Marionette	INFO	Listening on port 44617
+1605116347802	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=276708497, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=276708497, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=276708497, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=276708497 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=276708497 line 1 > eval, line 1: unreachable code after return statement
+1605116550351	geckodriver	INFO	Listening on 127.0.0.1:34271
+1605116550358	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileAZyVKq"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605116556870	Marionette	INFO	Listening on port 39953
+1605116556969	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=367564745, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=367564745, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=367564745, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=367564745 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=367564745 line 1 > eval, line 1: unreachable code after return statement
+1605116793136	geckodriver	INFO	Listening on 127.0.0.1:50077
+1605116793143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePis4PX"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605116797937	Marionette	INFO	Listening on port 36069
+1605116797997	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1500749909, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1500749909 line 1 > eval, line 1: unreachable code after return statement
+1605117342176	geckodriver	INFO	Listening on 127.0.0.1:42833
+1605117342186	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG9sYpF"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605117348815	Marionette	INFO	Listening on port 34985
+1605117348873	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=596716510, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=596716510, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=596716510, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=596716510 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=596716510 line 1 > eval, line 1: unreachable code after return statement
+1605117651866	geckodriver	INFO	Listening on 127.0.0.1:54799
+1605117651875	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFzA00P"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605117660920	Marionette	INFO	Listening on port 33127
+1605117661019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1085408749, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1085408749, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1085408749, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1085408749 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1085408749 line 1 > eval, line 1: unreachable code after return statement
+1605118472876	geckodriver	INFO	Listening on 127.0.0.1:39409
+1605118472883	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileg4IrcM"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1605118486886	Marionette	INFO	Listening on port 35465
+1605118486934	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=988658103, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=988658103, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=988658103, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=988658103 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=988658103 line 1 > eval, line 1: unreachable code after return statement
+1605118603737	geckodriver	INFO	Listening on 127.0.0.1:35309
+1605118603745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLVbIEN"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605118610086	Marionette	INFO	Listening on port 33207
+1605118610178	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=965143928, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=965143928, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=965143928, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=965143928 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=965143928 line 1 > eval, line 1: unreachable code after return statement
+1605119341775	geckodriver	INFO	Listening on 127.0.0.1:33447
+1605119341784	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePM6lkS"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605119348559	Marionette	INFO	Listening on port 37459
+1605119348951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609217140, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609217140, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609217140, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609217140 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1609217140 line 1 > eval, line 1: unreachable code after return statement
+1605119360804	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1605119484677	geckodriver	INFO	Listening on 127.0.0.1:60459
+1605119485709	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1XmE7Q"
+*** You are running in headless mode.
+Exiting due to channel error.
+1605119782095	geckodriver	INFO	Listening on 127.0.0.1:55909
+1605119783142	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilePpIsGI"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605119787548	Marionette	INFO	Listening on port 33509
+1605119787573	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229995741, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229995741, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229995741, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229995741 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=229995741 line 1 > eval, line 1: unreachable code after return statement
+1605120343681	geckodriver	INFO	Listening on 127.0.0.1:49463
+1605120344716	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileq1rp3W"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1605122138457	geckodriver	INFO	Listening on 127.0.0.1:59297
+1605122139500	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUkO7OY"
+*** You are running in headless mode.
+Exiting due to channel error.
+1605122202632	geckodriver	INFO	Listening on 127.0.0.1:45911
+1605122203650	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGVdemJ"
+*** You are running in headless mode.
+1605125290135	geckodriver	INFO	Listening on 127.0.0.1:33681
+1605125291427	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqGUb34"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605125320979	Marionette	INFO	Listening on port 45731
+1605125321053	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1333862134, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1333862134, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1333862134, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1333862134 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1333862134 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605126082311	geckodriver	INFO	Listening on 127.0.0.1:51433
+1605126083338	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileK5zTFo"
+*** You are running in headless mode.
+Exiting due to channel error.
+Exiting due to channel error.
+1605126405689	geckodriver	INFO	Listening on 127.0.0.1:52457
+1605126405703	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLSXjQh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605126409196	Marionette	INFO	Listening on port 46861
+1605126409235	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1139281366, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1139281366, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1139281366, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1139281366 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1139281366 line 1 > eval, line 1: unreachable code after return statement
+1605126462907	Marionette	INFO	Stopped listening on port 46861
+1605127540113	geckodriver	INFO	Listening on 127.0.0.1:56125
+1605127541131	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledQaXyn"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605127546260	Marionette	INFO	Listening on port 33083
+1605127546289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=249523076, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=249523076, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=249523076, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=249523076 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=249523076 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605127600621	geckodriver	INFO	Listening on 127.0.0.1:55665
+1605127600633	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBkzABR"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605127604636	Marionette	INFO	Listening on port 41309
+1605127604685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1433683585, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1433683585, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1433683585, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1433683585 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1433683585 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605128496260	geckodriver	INFO	Listening on 127.0.0.1:46899
+1605128497291	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile4k9niK"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605128502224	Marionette	INFO	Listening on port 39635
+1605128502264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1621811568, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1621811568, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1621811568, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1621811568 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1621811568 line 1 > eval, line 1: unreachable code after return statement
+1605128537914	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605128952596	geckodriver	INFO	Listening on 127.0.0.1:60395
+1605128953620	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBM5Y0a"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605128959711	Marionette	INFO	Listening on port 44151
+1605128959765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=84647793, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=84647793, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=84647793, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=84647793 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=84647793 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605129079241	geckodriver	INFO	Listening on 127.0.0.1:57387
+1605129080322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileqsfkh6"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605129086786	Marionette	INFO	Listening on port 34105
+1605129086827	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1530066925, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1530066925, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1530066925, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1530066925 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1530066925 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605129357518	geckodriver	INFO	Listening on 127.0.0.1:44019
+1605129358559	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNfpy79"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605129363209	Marionette	INFO	Listening on port 41239
+1605129363299	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1034057416, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1034057416, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1034057416, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1034057416 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1034057416 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605129460460	geckodriver	INFO	Listening on 127.0.0.1:56623
+1605129461503	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOiTczz"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605129467233	Marionette	INFO	Listening on port 36301
+1605129467263	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605129551224	geckodriver	INFO	Listening on 127.0.0.1:35373
+1605129551237	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile9hwHuf"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605129556275	Marionette	INFO	Listening on port 36601
+1605129556298	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1698368640, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1698368640, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1698368640, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1698368640 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=2&cb=1698368640 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605129723106	geckodriver	INFO	Listening on 127.0.0.1:43437
+1605129724143	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileuK91HF"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605129730076	Marionette	INFO	Listening on port 40065
+1605129730290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1614439049, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1614439049, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1614439049, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1614439049 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1614439049 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605129943808	geckodriver	INFO	Listening on 127.0.0.1:43997
+1605129944897	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGFA3Ne"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605129952097	Marionette	INFO	Listening on port 41311
+1605129952188	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=894323977, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=894323977, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=894323977, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=894323977 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=894323977 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605130099960	geckodriver	INFO	Listening on 127.0.0.1:35239
+1605130100983	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileoXY4uG"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605130106277	Marionette	INFO	Listening on port 33153
+1605130106328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=100474720, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=100474720, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=100474720, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=100474720 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=100474720 line 1 > eval, line 1: unreachable code after return statement
+1605130113199	Marionette	INFO	Stopped listening on port 33153
+1605130217286	geckodriver	INFO	Listening on 127.0.0.1:56791
+1605130218313	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileyV1M7h"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605130222080	Marionette	INFO	Listening on port 44493
+1605130222176	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1427437591, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1427437591, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1427437591, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1427437591 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1427437591 line 1 > eval, line 1: unreachable code after return statement
+1605130274497	Marionette	INFO	Stopped listening on port 44493
+1605130531780	geckodriver	INFO	Listening on 127.0.0.1:59017
+1605130532808	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMXiLBh"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605130537486	Marionette	INFO	Listening on port 40777
+1605130537562	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1150217177, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1150217177, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1150217177, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1150217177 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1150217177 line 1 > eval, line 1: unreachable code after return statement
+1605130551703	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605130633454	geckodriver	INFO	Listening on 127.0.0.1:59859
+1605130634465	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilex9fJRO"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605130639074	Marionette	INFO	Listening on port 42169
+1605130639123	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=240098773, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=240098773, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=240098773, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=240098773 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=240098773 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1605130808533	geckodriver	INFO	Listening on 127.0.0.1:34479
+1605130809540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileJ6h7Qt"
+*** You are running in headless mode.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1605130814192	Marionette	INFO	Listening on port 35967
+1605130814335	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513766197, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513766197, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513766197, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513766197 line 1 > eval, line 1: unreachable code after return statement
+JavaScript warning: https://money.gocompare.com/_Incapsula_Resource?SWJIYLWA=719d34d31c8e3a6e6fffd425f7e032f3&ns=1&cb=1513766197 line 1 > eval, line 1: unreachable code after return statement
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
