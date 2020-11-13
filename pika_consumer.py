@@ -44,8 +44,9 @@ def callback(ch, method, props, body):
     interval_text_field.send_keys(Keys.DELETE)
     interval_text_field.send_keys(interval_amount)
     interval_text_field.submit()
+    time.sleep(0.75)
     results_found = driver.find_element_by_xpath('//div[@class="results-tile results-tile--left"]/span').text
-    driver.refresh()
+    time.sleep(1.75)
     results_list = driver.find_elements_by_xpath('//ul[@class="results-list"]/li')
     scraped_offers = {}
     scraped_offers['results_found'] = results_found
