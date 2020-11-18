@@ -64,7 +64,6 @@ def callback(ch, method, props, body):
                         properties=pika.BasicProperties(correlation_id=props.correlation_id), body=f"""{scraped_offers}""")
     ch.basic_ack(delivery_tag = method.delivery_tag)
 
-
 def main():
     initiate_selenium()
     with pika.BlockingConnection(pika.ConnectionParameters('localhost')) as connection:

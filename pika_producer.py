@@ -48,21 +48,5 @@ def main():
     print('response: ', response.decode())
     
 
-    """
-    with pika.BlockingConnection(pika.ConnectionParameters('localhost')) as connection:
-        channel = connection.channel()
-        channel.queue_declare(queue='loan-request', durable=True, exclusive=True)
-        callback_queue = result.method.queue
-        
-        channel.basic_publish(exchange='',
-                          routing_key='loan-request',
-                          body=,
-                          properties=pika.BasicProperties(
-                            delivery_mode=2,  # make message persistent
-                          ))
-       """ 
-    
-
-
 if __name__ == "__main__":
     main()
